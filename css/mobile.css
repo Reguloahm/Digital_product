@@ -1,0 +1,37 @@
+@media (max-width: 600px) {
+  .products {
+    display:inherit;
+    height: auto;
+    margin-top: auto;
+    max-height: none;
+  }
+
+  .product{
+    margin-top: auto;
+  }
+
+  .preffered_products{
+      display:inherit;
+      height: auto;
+      margin-top: auto;
+      max-height: none;
+  }
+
+  .preffered_product{
+    margin-top: auto;
+  }
+
+  .mentions_products{
+    display:inherit;
+    height: auto;
+    margin-top: auto;
+    max-height: none;
+  }
+
+  .mentions_product{
+    margin-top: auto;
+  }
+  .main_section{
+    padding: 4%;
+  }
+}
